@@ -1,2 +1,3 @@
 # Personal Website
-Nitesh Kuwalekar
+Hi. I am Nitesh Kuwalekar.
+Learning new concepts and languages in programming.
